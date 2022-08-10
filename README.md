@@ -55,7 +55,7 @@ ___
 ***We can conclude that there is at least one nearly heavy rain day per month that may deter surfers.***
 ___
 
-###  After we analyzed both the temperature and precipitation for the two most risky months of June and December, there is no doubt that Oahu, Hawaii location is suitable for the surf and ice cream business all ovr the year!
+###  After we analyzed both the temperature and precipitation for the two most risky months of June and December, there is no doubt that Oahu, Hawaii location is suitable for the surf and ice cream business all over the year!
 
 ![](/Images/Cloudbreak-surf.jpeg)
 ___
